@@ -19,8 +19,8 @@ https://rinkishkhera.blogspot.in/2017/05/sqli-dhakkan-lab-setup-in-kali-linux.ht
 Before accessing lab from your browser make sure to run these three commands
 in your kali machine
 
-1 – service apache2 start
-2 – service mysql stop
-3 – mysqld_safe –skip-grant-tables
+1) – service apache2 start
+2) – service mysql stop
+3) – mysqld_safe –skip-grant-tables
 
 We are very thankful to Audi-1(aka Dhakkan) for creating such an interesting and awesome environment for us to understand and practice SQL injection.
