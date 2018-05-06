@@ -11,7 +11,7 @@ Original SQLi version can be found at
 
 https://github.com/Audi-1/sqli-labs
 
-How and what changes are made and how to setup this lab - You can read by blog for this
+How and what changes are made and how to setup this lab - You can read my blog for this
 
 https://rinkishkhera.blogspot.in/2017/05/sqli-dhakkan-lab-setup-in-kali-linux.html
 
