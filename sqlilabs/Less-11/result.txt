@@ -1,0 +1,13 @@
+User Name:adminPassword:pass
+User Name:admin'Password:pass
+User Name:adminPassword:passwordd'
+User Name:adminn'Password:passwoerd
+User Name:amnin'--+Password:
+User Name:Password:
+User Name:a--+Password:b--+
+User Name:Password:
+User Name:a--+Password:
+User Name:amnin'--+aPassword:a
+User Name:admin'Password:a
+User Name:admin';Password:passs
+User Name:a';"'Password:a

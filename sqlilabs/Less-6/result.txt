@@ -1,0 +1,24 @@
+ID:1
+ID:2
+ID:3
+ID:90
+ID:14
+ID:15
+ID:15a
+ID:0
+ID:a
+ID:dd
+ID:13
+ID:13\
+ID:1
+ID:1\
+ID:1'
+ID:1\
+ID:1"
+ID:1" order by 1-- 
+ID:1" order by 19-- 
+ID:1" order by 4-- 
+ID:1" order by 3-- 
+ID:1" union select 1,2,3-- 
+ID:-1" union select 1,2,3-- 
+ID:-10000" union select 1,2,3-- 
