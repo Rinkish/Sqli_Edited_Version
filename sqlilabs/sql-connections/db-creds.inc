@@ -1,7 +1,7 @@
 <?php
 
 //give your mysql connection username n password
-$dbuser ='user';
+$dbuser ='user@127.0.0.1';
 $dbpass =$_ENV["MYSQL_ROOT_PASS"];
 echo $dbpass;
 $dbname ="security";
