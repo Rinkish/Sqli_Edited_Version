@@ -16,6 +16,11 @@ How and what changes are made and how to setup this lab - You can read my blog f
 https://rinkishkhera.blogspot.in/2017/05/sqli-dhakkan-lab-setup-in-kali-linux.html
 
 
+Added Docker Suppport :
+Now just run
+docker-compose up and enjoy the maching at localhost:800
+
+
 Before accessing lab from your browser make sure to run these three commands
 in your kali machine
 
