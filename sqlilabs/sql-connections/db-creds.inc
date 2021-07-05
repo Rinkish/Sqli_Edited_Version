@@ -5,7 +5,7 @@ $dbuser ='root';
 $dbpass =$_ENV["MYSQL_ROOT_PASS"];
 echo $dbpass;
 $dbname ="security";
-$host = '127.0.0.1';
+$host = 'localhost';
 $dbname1 = "challenges";
 
 
