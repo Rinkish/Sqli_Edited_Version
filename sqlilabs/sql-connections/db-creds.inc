@@ -2,9 +2,9 @@
 
 //give your mysql connection username n password
 $dbuser ='root';
-$dbpass ='';
+$dbpass ='password';
 $dbname ="security";
-$host = 'localhost';
+$host = 'db';
 $dbname1 = "challenges";
 
 
