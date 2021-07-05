@@ -5,7 +5,7 @@ $dbuser ='root';
 $dbpass ='password';
 echo $dbpass;
 $dbname ="security";
-$host = '127.0.0.1';
+$host = 'db';
 $dbname1 = "challenges";
 
 
